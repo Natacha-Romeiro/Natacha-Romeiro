@@ -5,7 +5,7 @@
 ## ✮⋆˙About me: 
 - 🔭 I’m currently working on backend developer
 - 🌱 I’m currently learning english 
-- ⚡ Fun fact: Fun fact: 
+- ⚡ Fun fact:  
       💪 gym rat
       ⛺ camper
       🪂 adventure sports lover
