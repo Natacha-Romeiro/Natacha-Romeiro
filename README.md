@@ -1,11 +1,13 @@
-## Hi there 👋
+## Hi there 🌌
+
+## ⏳ refatoring my repositories ⏳
 
 - 🔭 I’m currently working on backend developer
 - 🌱 I’m currently learning english 
 - ⚡ Fun fact: Fun fact: 
       💪 gym rat
       ⛺ camper
-      🪂 adventure sports lover.
+      🪂 adventure sports lover
 
 <!--
 **Natacha-Romeiro/Natacha-Romeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
