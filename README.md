@@ -1,7 +1,8 @@
-## Hi there 🌌
+## Hi there 🖖
 
 ## ⏳ refatoring my repositories ⏳
 
+## ✮⋆˙About me: 
 - 🔭 I’m currently working on backend developer
 - 🌱 I’m currently learning english 
 - ⚡ Fun fact: Fun fact: 
